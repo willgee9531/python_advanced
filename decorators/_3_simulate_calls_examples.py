@@ -1,4 +1,4 @@
-from decorator_example import *
+from decorators._2_decorator_example import *
 
 
 #Simulating Calls.
